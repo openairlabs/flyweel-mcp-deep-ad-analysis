@@ -30,10 +30,6 @@ Turns your live ad data into actionable media buying insights. Optimises MCP too
 ## Installation
 
 ```bash
-# Via skill.fish
-claude skill install flyweel/flyweel-mcp-deep-ad-analysis
-
-# Manual
 git clone https://github.com/flyweel/flyweel-mcp-deep-ad-analysis.git ~/.claude/skills/flyweel-mcp-deep-ad-analysis
 ```
 
