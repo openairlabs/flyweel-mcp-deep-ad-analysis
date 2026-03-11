@@ -30,6 +30,10 @@ Turns your live ad data into actionable media buying insights. Optimises MCP too
 ## Installation
 
 ```bash
+# Auto-detects your agent (Claude Code, Cursor, Windsurf, Gemini, Codex, OpenCode)
+npx @flyweel/skill install flyweel-mcp-deep-ad-analysis
+
+# Or manually
 git clone https://github.com/openairlabs/flyweel-mcp-deep-ad-analysis.git ~/.claude/skills/flyweel-mcp-deep-ad-analysis
 ```
 
