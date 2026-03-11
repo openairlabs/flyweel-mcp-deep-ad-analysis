@@ -1,5 +1,5 @@
 ---
-name: flyweel-mcp-ad-analysis-by-flyweel.co
+name: flyweel-mcp-deep-ad-analysis
 description: |
   Analyse Google Ads and Meta Ads performance using the Flyweel MCP server.
   Optimises tool usage, batches queries, and delivers actionable media buying

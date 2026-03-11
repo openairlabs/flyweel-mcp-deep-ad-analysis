@@ -1,4 +1,4 @@
-# Flyweel MCP Ad Analysis
+# Flyweel MCP Deep Ad Analysis [SKILL.md]
 
 A Claude Code skill for analysing Google Ads and Meta Ads performance using the [Flyweel](https://flyweel.co) MCP server.
 
@@ -31,10 +31,10 @@ Turns your live ad data into actionable media buying insights. Optimises MCP too
 
 ```bash
 # Via skill.fish
-claude skill install flyweel/flyweel-mcp-ad-analysis-by-flyweel.co
+claude skill install flyweel/flyweel-mcp-deep-ad-analysis
 
 # Manual
-git clone https://github.com/flyweel/flyweel-mcp-ad-analysis-by-flyweel.co.git ~/.claude/skills/flyweel-mcp-ad-analysis-by-flyweel.co
+git clone https://github.com/flyweel/flyweel-mcp-deep-ad-analysis.git ~/.claude/skills/flyweel-mcp-deep-ad-analysis
 ```
 
 ## Usage
